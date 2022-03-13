@@ -1,2 +1,2 @@
 # r-exercise
-R for data science lab
+R for Bio Data Science course lab
